@@ -1,0 +1,4 @@
+Dependencies
+    pip install xlrd
+    pip install -U scikit-learn
+    pip install matplotlib
