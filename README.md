@@ -12,4 +12,4 @@
 
 see tutorial from here : https://www.daneshjooyar.com/python/
 
-![Thumbnail](PyRoadmap/Thumbnail-py.png)
+![Thumbnail](PyRoadmap/Thumbnail-Py.png)
