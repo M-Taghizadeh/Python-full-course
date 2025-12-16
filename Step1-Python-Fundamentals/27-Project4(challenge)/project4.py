@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 str_alish = input('')
 my_list = []
 
@@ -10,15 +16,15 @@ while i < len(my_list):
     if(my_list[i] == '='):
         del my_list[i] ### delete index of i
         i = i - 1
-		flag = 0
+        flag = 0
 
         if i >= 0: 
             del my_list[i] ### delete index of i-1
             flag = 1
-			
-		if flag == 1:
-		i -= 1
-		
+            
+        if flag == 1:
+            i -= 1
+            
     i = i + 1
         
 

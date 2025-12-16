@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 import pickle
 import os
 PATH = "C:/Users/Zanis/Desktop/Python Docs/Step1-Python/20-project(library)/"

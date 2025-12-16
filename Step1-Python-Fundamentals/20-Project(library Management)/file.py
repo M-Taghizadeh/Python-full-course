@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 PATH = 'C:/Users/Zanis/Desktop/content.txt'
 
 import os

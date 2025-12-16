@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 ### [DICTIONARY]
 # A dictionary is a collection which is unordered, changeable and indexed. (Key Value Data Structure...)
 

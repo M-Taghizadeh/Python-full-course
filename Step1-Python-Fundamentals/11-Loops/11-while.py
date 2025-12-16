@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 # Python has two primitive loop commands:
 # 1) while loops --> With the while loop we can execute a set of statements as long as a condition is true.
 # 2) for loops   --> A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).

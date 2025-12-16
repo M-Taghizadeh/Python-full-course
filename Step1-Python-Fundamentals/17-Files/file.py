@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 ### File Handling:    
     # "r" - Read - Default value. Opens a file for reading, error if the file does not exist
     # "a" - Append - Opens a file for appending, creates the file if it does not exist

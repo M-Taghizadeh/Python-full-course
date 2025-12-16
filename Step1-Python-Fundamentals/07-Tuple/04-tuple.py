@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 ### [TUPLE]
 # tuple is a collection which is ordered and unchangeable. In Python tuples are written with round brackets.
 my_tuple = ("apple", "banana", "cherry", "orange", "kiwi", "melon", "mango")

@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 import os
 # if not os.path.exists(PATH) :
 #     f = open(PATH, 'w+')

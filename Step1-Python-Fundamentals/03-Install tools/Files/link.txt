@@ -1,5 +1,5 @@
 download python from here:
-https://www.python.org/downloads/
+https://www.python.org/downloads
 
 download vscode from here:
 https://code.visualstudio.com/download
