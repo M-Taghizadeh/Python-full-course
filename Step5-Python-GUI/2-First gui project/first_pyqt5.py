@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 import sys
 # 1. Import `QApplication` and all the required widgets
 from PyQt5.QtWidgets import QApplication

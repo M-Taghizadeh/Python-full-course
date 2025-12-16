@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 # Filename: signals_slots.py
 
 """Signals and slots example."""

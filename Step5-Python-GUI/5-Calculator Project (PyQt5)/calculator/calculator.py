@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 # -*- coding: utf-8 -*-
 
 # Form implementation generated from reading ui file 'cal_design.ui'
