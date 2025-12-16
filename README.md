@@ -1,19 +1,30 @@
-# Full Python Programming Tutorials in 72 episodes (22 h)
+# Complete Python Programming Course  
+**72 Episodes | ~22 Hours of Content**
 
-7 steps outline:
-1. Python Fundamental and procedural programming methodology
-2. Python tools
-3. Object oriented programming methodology
-4. MySql database
-5. GUI Programmig
-6. Popular Packages and frameworks in python
-7. Machine Learning
-![PyRoadMap](PyRoadmap/Python-full-tutorial-with-Tqzdh.png)
 
-see tutorial from here
-https://www.daneshjooyar.com/python/
+This comprehensive learning path is designed to take you from zero Python knowledge to the essential skills required to become an **AI Engineer**. The course gradually builds strong programming foundations and then moves toward real-world AI and Machine Learning concepts.
 
-see Python Fundamental and procedural programming methodology(free youtube playlist) :)
-https://www.youtube.com/watch?v=3-ndqjYlFaU&list=PLCYuHRopfbET2B91Dsp4_S1SUPX0bc-8D
 
-![Thumbnail](PyRoadmap/Thumbnail-new-Py.png)
+## Learning Roadmap (7 Steps)
+
+1. **Python Fundamentals & Procedural Programming**
+2. **Essential Python Tools**
+3. **Object-Oriented Programming (OOP)**
+4. **MySQL Database Integration**
+5. **GUI Programming**
+6. **Popular Python Libraries & Frameworks**
+7. **Machine Learning And Deep Learning**
+
+![Python Roadmap](PyRoadmap/Python-full-tutorial-with-Tqzdh.png)
+
+---
+
+## 📌 Course Resources
+
+### 🔹 YouTube Channel  
+**آموزش جامع پایتون با تمرکز بر هوش مصنوعی در 22 ساعت**  
+🎥 https://www.youtube.com/c/MohammadTaghizadeh
+
+---
+
+![Course Thumbnail](PyRoadmap/Thumbnail.png)
