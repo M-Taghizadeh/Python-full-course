@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 from sklearn.naive_bayes import GaussianNB
 from sklearn import metrics
 import numpy as np 
