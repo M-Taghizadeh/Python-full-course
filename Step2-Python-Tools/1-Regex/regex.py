@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 import re
 txt = """
 Lorem ipsum dolor sit amet, consectetur adipiscing elit,
