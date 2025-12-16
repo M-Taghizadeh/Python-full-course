@@ -1,3 +1,9 @@
+"""
+Author: Mohammad Taghizadeh
+YouTube: https://www.youtube.com/c/MohammadTaghizadeh
+"""
+
+
 class Person:
     def __init__(self, first, last, age):
         self.first = first
